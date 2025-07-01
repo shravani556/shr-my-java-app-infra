@@ -1,0 +1,1 @@
+# shr-my-java-app-infra
